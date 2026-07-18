@@ -14,3 +14,16 @@ A lightweight, responsive Python GUI application for Windows built using standar
   * **Hex Parsing:** Detects space/comma-separated hex tokens (e.g., `0xFF 0xAA 0x12`) and sends them as raw binary bytes.
 * 🔌 **Loopback Mode:** Enter `loop://` in the port selection to run loopback tests offline.
 
+**Additional info for users**  
+
+- **Python version:** Tested with Python 3.13 (requires ≥ 3.8).  
+- **Core dependencies:**  
+  ```bash
+  pip install pyserial
+  ```
+  (Tkinter is included with the standard Windows Python installer.)  
+
+- **Running the app:**  
+  ```bash
+  python serial_dual_tool.py
+  ```  
