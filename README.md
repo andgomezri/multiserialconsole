@@ -2,6 +2,8 @@
 
 A lightweight, responsive Python GUI application for Windows built using standard `tkinter` and `pyserial`. It allows developers to monitor and control 1 to 4 serial connections simultaneously in parallel, featuring thread-safe operation, customizable layouts, and smart parsing features.
 
+![](serialconsole.png)
+
 ### Key Features
 * 📌 **Always-on-Top Toggle:** Keep the window pinned over other programs with a single click.
 * 🔄 **Dynamic Split Layouts:** Cycle between **Mixed**, **Vertical**, and **Horizontal** layouts that scale automatically when the main window is resized.
