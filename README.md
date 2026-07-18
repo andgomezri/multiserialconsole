@@ -27,5 +27,5 @@ A lightweight, responsive Python GUI application for Windows built using standar
 
 - **Running the app:**  
   ```bash
-  python serial_dual_tool.py
+  python serial_multi_console.py
   ```  
